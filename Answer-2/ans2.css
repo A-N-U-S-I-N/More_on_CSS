@@ -1,0 +1,14 @@
+div {
+    background-color: #f4bc1c;
+    border-radius:20px;
+    text-align: left;
+    width: max-content;
+    padding: 10px;
+}
+
+img {
+    border-radius: 20px;
+    height:200px;
+    width: 300px;
+}
+
