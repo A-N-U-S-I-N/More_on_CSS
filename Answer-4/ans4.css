@@ -1,0 +1,15 @@
+img {
+    border-radius: 50%;
+    height:300px;
+}
+
+body {
+    background-size: 100% 800px;
+    background-image: linear-gradient(to bottom right,rgb(29, 216, 29),blue);
+}
+
+.circle {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
