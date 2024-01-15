@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+}
+
+nav {
+    background-color: #008ecc;
+    padding: 30px;
+}
+
+a {
+    color: white;
+    padding: 10px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: black;
+}
+
+.home {
+    border-style: solid;
+}
+
+.about {
+    border-style: dashed;
+}
+
+.blog {
+    border-style: dotted;
+}
+
+
+.login {
+    border-style: double;
+}
+
+.con {
+    border-style: groove;
+}
