@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+}
+
+nav {
+    background-color: #008ecc;
+    padding: 30px;
+}
+
+a {
+    color: white;
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: black;
+}
